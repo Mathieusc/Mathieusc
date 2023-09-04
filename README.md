@@ -25,10 +25,10 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathieusc&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="mathieusc" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathieusc&show_icons=true&theme=tokyonight&locale=en" alt="mathieusc" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathieusc&theme=tokyonight" alt="mathieusc" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mathieusc&label=Profile%20views&color=004687&style=flat" alt="mathieusc" /> </p>
+
+
