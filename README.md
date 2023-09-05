@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Python developer from France</h3>
 
 <h3 align="left">Contact:</h3>
-- 📫 **mathieu.schweitzer@hotmail.fr**
+
+- 📫 **mathieu.schweitzer@hotmail.fr**   
 
 <p align="left">
 </p>
