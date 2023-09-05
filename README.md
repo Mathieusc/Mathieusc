@@ -3,7 +3,7 @@
 
 <h3 align="left">Contact:</h3>
 
-- 📫 **mathieu.schweitzer@hotmail.fr**   
+📫 **mathieu.schweitzer@hotmail.fr**   
 
 <p align="left">
 </p>
